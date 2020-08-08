@@ -1,5 +1,2 @@
-initial note
-change 2
-change 3
-change 4
-change 5
+# gitdemo
+It's my first github project.
